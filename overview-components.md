@@ -68,7 +68,7 @@ Most Opala Design System components accept these common props:
 
 **IMPORTANT**: Be mindful when overriding component styling:
 
-- **Avoid modifying styling** through `className` on FPL components when possible
+- **Avoid modifying styling** through `className` on Opala Design System components when possible
 - Use **variant and color props** for styling changes (preferred approach)
 - Use **style object property** for strictly necessary modifications (e.g., custom spacing)
 - Component structure and layout are optimized for consistency - changing them may break appearance
