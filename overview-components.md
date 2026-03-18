@@ -1,3 +1,5 @@
+<!--Arquivos de overview apresentam aspectos específicos do DS ao Figma Make-->
+
 # Components Overview - Opala Design System
 
 Always prefer components from the Opala Design System (imported from the main package) when available. Each component has been carefully designed to work together and follow consistent patterns.

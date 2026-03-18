@@ -1,3 +1,5 @@
+<!--Diretrizes que o Figma Make sempre analisa primeiro. Este arquivo tem a função de apresentar o seu sistema de design e dá ao Figma Make uma noção dos componentes e tokens disponíveis. Ele também esplica ao Make os outros arquivos de diretrizes existentes e quando eles devem ser usados.-->
+
 # Opala Design System - Guidelines
 
 This project has access to the **Opala Design System** - a comprehensive React component library with carefully designed components, tokens, and patterns. The guidelines directory contains essential information for using this design system effectively.
@@ -66,6 +68,7 @@ Before using any icon:
 7. **Leverage variant props** - Use variant and color props instead of custom CSS
 
 ### ❌ DON'T DO THIS:
+
 1. **Don't skip overview files** - They provide critical context for the entire system
 2. **Don't use components without reading their guidelines** - Each component has specific requirements
 3. **Don't override component CSS** - Use variant and color props instead
